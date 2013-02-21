@@ -5,7 +5,7 @@
 './configure' \
 '--prefix=/usr/local/php-5.3.10' \
 '--with-config-file-path=/usr/local/php-5.3.10/etc' \
-'--with-mysql=/usr' \
+'--with-mysql=mysqlnd' \
 '--with-mysqli=mysqlnd' \
 '--with-iconv-dir=/usr/local' \
 '--with-freetype-dir' \
