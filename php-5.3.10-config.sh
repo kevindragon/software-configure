@@ -36,4 +36,5 @@
 '--with-xmlrpc' \
 '--enable-zip' \
 '--enable-soap' \
+'--with-t1lib' \
 "$@"
