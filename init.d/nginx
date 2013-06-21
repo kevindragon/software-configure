@@ -30,7 +30,7 @@ lockfile=/var/lock/subsys/nginx
  
 make_dirs() {
    # make required directories
-   user=`$nginx -V 2>&1 | grep "configure arguments:" | sed 's/[^*]*--user=\([^ ]*\).*/\1/g' -`
+   user=`$nginx -V 2>&1 | grep "configure arguments:.*--user" | sed 's/[^*]*--user=\([^ ]*\).*/\1/g' -`
    if [ -z "`grep $user /etc/passwd`" ]; then
        useradd -M -s /bin/nologin $user
    fi
