@@ -1,0 +1,2 @@
+{"ts":1353044104124,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1353044217961,"patch":[[{"diffs":[[1,"/\n|\n|-- nginx 放在/et/init.d/目录下面的脚本，针对red hat系列(RHEL, Fedora, CentOS)\n|\n|-- php-configure.sh 执行./configure的一些参数"]],"start1":0,"start2":0,"length1":0,"length2":110}]],"length":110,"saved":false}
