@@ -1,0 +1,1 @@
+{"ts":1371806443222,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"#!/bin/sh\n\n./configure --with-nagios-user=nagios --with-nagios-group=nagios --prefix=/usr/local/nagios"]],"start1":0,"start2":0,"length1":0,"length2":102}]],"length":102}
