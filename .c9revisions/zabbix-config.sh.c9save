@@ -1,2 +1,3 @@
 {"ts":1371798628909,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
 {"contributors":[],"silentsave":false,"ts":1371798543709,"patch":[[{"diffs":[[1,"#!/bin/sh\n\n./configure --prefix=/usr/local/zabbix-2.0.1 --enable-agent"]],"start1":0,"start2":0,"length1":0,"length2":70}]],"length":70,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1372052393685,"patch":[[{"diffs":[[0,"le-agent"],[1,"\n\nmake \n\nmake install"]],"start1":62,"start2":62,"length1":8,"length2":29}]],"length":91,"saved":false}
